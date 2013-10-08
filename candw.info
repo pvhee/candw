@@ -28,4 +28,3 @@ dependencies[] = rdf
 
 ;Contrib modules for C&W
 dependencies[] = views
-dependencies[] = high_contrast
